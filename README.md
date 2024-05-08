@@ -4,6 +4,8 @@
 - TypeScript
 - Tailwind CSS
 
+This is a Next.JS Frontend web application.
+
 ## <a name="features">🔋 Features</a>
 
 👉 **Home Page**: Showcases a visually appealing display of cars fetched from a third-party API, providing a captivating introduction to the diverse range of vehicles available.
