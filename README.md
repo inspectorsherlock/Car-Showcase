@@ -19,3 +19,7 @@
 👉 **TypeScript Types**: Utilize TypeScript to provide robust typing for enhanced code quality and better development
 
 👉 **Responsive Website Design**: The website is designed to be visually pleasing and responsive, ensuring an optimal user experience across various devices.
+
+
+Live demo of the website can be reached below:
+https://spiffy-pony-543a97.netlify.app/ 
